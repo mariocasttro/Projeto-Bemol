@@ -1,0 +1,19 @@
+Responda sucintamente os itens a seguir em um .txt levando as perguntas e as respostas para o controle de versão da maneira que julgar mais apropriado:
+
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil?
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+
+5. Acha válido esse desafio para o processo que está participando?
+
+RESPOSTAS 
+
+1. sim
+2. Asana, é uma das ferramentas mais usadas na atualidade por ser ágil, facil de usar e bem objetiva.
+3. Sim, pois tenho facilidade para lidar com pessoas, possuo inteligencia emocional e sempre busco mobilizar as pessoas para que atinjam o máximo do seu potencial e consigam cumprir seus objetivos.
+4. A oportunidade e o projeto estão de acordo com minhas expectativas.
+5. Sim, o desafio pede conhecimentos front end e back, precisando saber desenhar telas e interação entre elas, além de um conhecimento de arquitetura de software
